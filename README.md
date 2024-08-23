@@ -5,19 +5,16 @@ I'm **Ibrahim**, a Python and Node.js developer. I specialize in building websit
 ## 🚀 My Skills:
 
 - **Backend**: 
-  - Python (Flask, Django)
+  - Python (Aiogram, Django)
   - Node.js (Express)
 - **Frontend**:
   - HTML, CSS, JavaScript
-  - React, EJS
 - **Databases**:
-  - PostgreSQL, MySQL, SQLite
-  - MongoDB
+  - PostgreSQL, SQLite
 - **Integrations and API**:
   - RESTful API development
   - Telegram Bot API
 - **Others**:
-  - Docker
   - Git and GitHub
   - Testing and Debugging
 
@@ -28,7 +25,7 @@ I'm **Ibrahim**, a Python and Node.js developer. I specialize in building websit
 
 ## 📫 Get in Touch:
 
-- [Telegram](https://t.me/yourusername)
-- [Email](mailto:your-email@example.com)
+- [Telegram](https://t.me/ibr6xim)
+- [Email](mailto:email@gmail.com)
 
 I'm open to collaboration and excited about new interesting projects!
